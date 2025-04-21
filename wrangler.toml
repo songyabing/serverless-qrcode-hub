@@ -22,3 +22,5 @@ crons = ["*/10 * * * * *"]
 [assets]
 directory = "./dist"
 binding = "ASSETS"
+
+password = "songyabin"
